@@ -1,0 +1,8174 @@
+[
+  {
+    "countryCode": "uk",
+    "cityName": "london"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "glasgow"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "liverpool"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "sheffield"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "los-angeles"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "philadelphia"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "melbourne"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "brisbane"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "sydney"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "manchester"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "birmingham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-york"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokyo"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "toronto"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boston"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "adelaide"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "leeds"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "coventry"
+  },
+  {
+    "countryCode": "hk",
+    "cityName": "hongkong"
+  },
+  {
+    "countryCode": "sg",
+    "cityName": "singapore"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "osaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kyoto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagoya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yokohama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kobe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukuoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chiba"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "saitama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kawasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sapporo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "okayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hiroshima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kumamoto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sendai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "niigata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sagamihara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nerima-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "machida"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kawaguchi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "minato-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kurashiki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hachioji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shizuoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hamamatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitakyushu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kawagoe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kashiwa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "himeji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yokkaichi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanazawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "amagasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "suita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takamatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "funabashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ibaraki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsudo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kochi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "adachi-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsukuba"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "saga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukuyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nisshin"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "utsunomiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yokosuka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nishinomiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ota-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koriyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "atsugi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "akita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "morioka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "maebashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "bunkyo-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujisawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "soka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ichikawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "katsushika-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "setagaya-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "edogawa-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shinagawa-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokushima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kagoshima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukui"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kofu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "komae"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukushima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyota"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsuyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "aichi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "otsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ebetsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokorozawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyohashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "numazu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gifu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hikone"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyonaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "wakayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hakodate"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shimonoseki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fuchu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsumoto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "daito"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasugai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamaguchi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chofu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nakano-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mito"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamagata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hadano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mitaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yonago"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fuji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koganei"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsuchiura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ichinomiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "neyagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "okazaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takatsuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koshigaya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kakogawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yaizu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashiosaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "isesaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yao"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ageo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hirakata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ichihara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kunitachi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "banqiao-district-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kurume"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyazaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hokkaido"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kodaira"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ube"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hyogo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "okinawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsue"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kamakura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ota"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "owariasahi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "moriguchi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hatsukaichi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kumagaya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kokubunji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shinjuku-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shibuya-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kita-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "arakawa-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hitachi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mooka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "aizuwakamatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "suginami-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashimatsuyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "asahikawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "aomori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hachinohe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kusatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yotsukaido"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takarazuka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mishima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tachikawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "asaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "suzuka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashihiroshima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chigasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kisarazu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasuga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "abiko"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yachiyo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukuroi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sumida-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "narashino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyagi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hirosaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagaoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "naha"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shunan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ueda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "akashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujinomiya-a"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "noda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "musashino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kakegawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "joetsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kariya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "omuta"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tomakomai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ashikaga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakado"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ebina"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kyotanabe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "otaru"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "odawara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsusaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "akishima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yonezawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kure"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mobara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takaoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsubara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "itami"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "inagi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tottori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "beppu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tochigi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "niiza"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "narita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kawanishi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "izumi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "settsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gotemba"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashiyamato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamanashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "niihama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tosu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tendo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takasago"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "isehara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "urayasu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "togane"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kiryu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagahama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashikurume"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsuyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ina"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyokawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kiyosu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "izumo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kashiwara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamatokoriyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "maizuru"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujimi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nasushiobara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasukabe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ikeda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwakuni"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiojiri"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "imabari"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "munakata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "seto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mizuho"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hasuda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sasebo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "marugame"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "konosu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koto-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nakatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kashihara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ogaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iruma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nishio"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagareyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gamagori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "komaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "honjo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hitachinaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kudamatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shimada"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "inuyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sanda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hofu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "noboribetsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitahiroshima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "minamisoma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kashima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tatebayashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yatsushiro"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iida"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shibata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toshima-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kiyose"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "obihiro"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "izumisano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chitose"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ayase"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "minokamo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujioka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "zama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kishiwada"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kakamigahara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyakonojo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kani"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwamizawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "musashimurayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hanyu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tenri"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iizuka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "naka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashimurayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "aioi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "anjo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "furukawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toride"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashiomi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nishitokyo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hekinan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "meguro-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "wako"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujiyoshida"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kushiro"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "omihachiman"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "echizen"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sukagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "omura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tamana"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hidaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nishiwaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kamisu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwanuma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukaya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kurayoshi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "natori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tajimi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanuma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "misato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shimotsuke"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "komatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "naruto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "osaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "saku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiroi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kadoma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "suwa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "eniwa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hanno"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chikushino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chikusei"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitamoto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yashio"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanoya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ome"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukuchiyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kashiwazaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujieda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yanagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yoshida-town-haibara-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ryugasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "asakura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokoname"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "inazawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "azumino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fussa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "moriya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takahama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsuruga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "inzai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nogata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kinokawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yoshikawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ishioka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kainan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "soma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "imizu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "warabi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "choshi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tagajo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kazo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "handa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hikari"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitakami"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kashiba"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashine"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "makinohara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shikokuchuo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kirishima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kosai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "izunokuni"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ogori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tomisato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kameoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sennan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ako"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "susono"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamaga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mihara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "bando"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "obama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "isahaya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "satsumasendai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsuruoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "san-yoonoda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nankoku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ushiku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "onojo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sabae"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nikko"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "futtsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsurugashima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tanabe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "okaya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "obu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hamura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gyoda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "zushi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kimitsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sodegaura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yukuhashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kamagaya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fuefuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakaide"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "omaezaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nago"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "asahi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "okegawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ikoma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "habikino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hakusan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "okawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "onomichi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "otawara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shimotsuma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tahara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tonami"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ishinomaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kaizuka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sanuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "konan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nakama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "karatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "arao"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takeo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyooka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "satte"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chuo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yachimata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "joyo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yasu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nabari"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "towada"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "goshogawara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chiryu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsubame"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yanai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tondabayashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "suzaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ichinoseki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "namerikawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shirakawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "muroran"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ise"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "joso"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "akiruno"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "moriyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takikawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsuru"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyoshi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mizunami"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kizugawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "katano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nonoichi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toyoake"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "bizen"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nomi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukutsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kakuda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takahashi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kuwana"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sagae"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mie"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "dazaifu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uozu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hannan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mitsuke"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tome"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "urasoe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sanjo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shijonawate"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nihonmatsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gunma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "daisen"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagaizumi-cho-sunto-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kami"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kikugawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "itoshima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kurihara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hitachiomiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "setouchi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nakano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shinshiro"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "zentsuji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shobara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hashima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chikugo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakuragawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oizumi-town-oura-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nantan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "izumiotsu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "usa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tamano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takehara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kawachinagano"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tomioka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yurihonjo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tatsuno"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "komatsushima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ginowan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "harima-cho-kako-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "seki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasumigaura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uruma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujiidera"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "three"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwakura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gobo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "saiki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "taito-district-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashimatsushima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shinjo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "akaiwa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ojiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ina-town-kitaadachi-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanie-town-kaifu-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiroishi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shibata-town"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "komagane"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yawata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagakute"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyawaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ishikari"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takaishi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yaita"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hakui"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shimizu-town-sunto-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "samukawa-cho-koza-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "midori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sanmu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamatotakada"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kaga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kameyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hunan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ono"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "katori"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "otake"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasaoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsubata-town-kahoku-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "minami-alps"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitakata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nobeoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mizuho-town-nishitama-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sayama-osaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "muko"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ogawa-machi-hiki-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shime-town-kasuya-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yasugi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kuroishi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nanao"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukusaki-town-kanzaki-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ayabe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tomigusuku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "arashiyama-cho-hiki-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kahoku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "numata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsukubamirai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitanagoya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "toon"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiraoka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "motomiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "annaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yamato-town-kurokawa-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yugawara-town-ashigarashimo-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tsushima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "itoman"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tomiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yatomi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "katsuragi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hiratsuka-a"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hamada"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanonji"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "aira"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kannami-cho-tagata-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oamishirasato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kyotango"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagaokakyo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hokota"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsubushi-cho-kitakatsushika-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "matsuda-town-ashigarakami-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitaibaraki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "taishi-cho-ibo-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kamimikawa-cho-kawachi-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mimasaka"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kamo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "asakuchi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwade"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hashimoto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ginan-cho-hashima-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "showa-cho-nakakoma-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takahagi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fuchu-cho-aki-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ogawara-town-shibata-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tateyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yorii-town-osato-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takizawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokai-mura-naka-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nogi-town-shimotsuga-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hayashima-town-tsukubo-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oi-machi-ashigarakami-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "seika-cho-soraku-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ashiya"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "inashiki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "onga-town-onga-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uchinada-town-kahoku-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nakagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yoshioka-cho-kitagunma-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kiyama-cho-sanyoki-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shisui-town-inba-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiwa-cho-shiwa-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yufu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ogi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "togo-town-aichi-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "minamiuonuma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitakata-cho-motosu-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "mine"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujimino"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakurai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanzaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ibara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "buzen"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oyabe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiogama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ibusuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ritto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kasamatsu-cho-hashima-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kitsuki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ninomiya-town-nakagun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hitachiota"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyazu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takashima"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "murayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yoshinogawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fukagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "uonuma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oarai-town-higashiibaraki-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chuo-ku"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "higashikagawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nishitokyo-city"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iwate-a"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "santoyo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tanba-sasayama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kanzaki-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hokuto"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ehime"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kumatori-town-sennan-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "misato-cho-ikoma-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "fujimi-town-suwa-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "takanezawa-town-shioya-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chikuzen-town-asakura-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hiji-town-hayami-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kaisei-town-ashigarakami-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sugito-town-kitakatsushika-district"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tamamura-cho-sawa-gun"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yoro-town-yoro-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "showa-town"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "suntou-county"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nanjo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hyuga"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koshi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kikuchi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hitoyoshi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "unzen"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "imari"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "miyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yame"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tosa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "iyo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ozu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "saijo"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "anan"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hagi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "akitakata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "masuda"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakaiminato"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "arida"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gose"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shiso"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "asago"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "maibara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "inabe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "aisai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "ena"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nakatsugawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "chikuma"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "omachi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "komoro"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "koshu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nirasaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kurobe"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "gosen"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "itoigawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "murakami"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tokamachi"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "minamiashigara"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sosa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "shibukawa"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "omitama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "date"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "tamura"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "nagai"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "kaminoyama"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "sakata"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "yokote"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "noshiro"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "oshu"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "hanamaki"
+  },
+  {
+    "countryCode": "jp",
+    "cityName": "misawa"
+  },
+  {
+    "countryCode": "kr",
+    "cityName": "seoul"
+  },
+  {
+    "countryCode": "kr",
+    "cityName": "incheon"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "petaling-jaya"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "seri-kembangan"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "kajang"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "kuala-lumpur"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "shah-alam"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "sepang"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "johor-bahru"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "dengkil"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "subang-jaya"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "gelugor"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "nilai"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "bandar-baru-bangi"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "cheras"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "cyberjaya"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "daerah-seremban"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "kota-tinggi"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "bangi"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "bayan-lepas"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "hulu-langat"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "puchong"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "ampang-jaya"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "george-town"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "barat-daya"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "seberang-perai-selatan"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "seberang-perai-tengah"
+  },
+  {
+    "countryCode": "my",
+    "cityName": "klang"
+  },
+  {
+    "countryCode": "th",
+    "cityName": "bangkok"
+  },
+  {
+    "countryCode": "th",
+    "cityName": "chiang-mai"
+  },
+  {
+    "countryCode": "th",
+    "cityName": "phuket"
+  },
+  {
+    "countryCode": "th",
+    "cityName": "samut-prakan"
+  },
+  {
+    "countryCode": "th",
+    "cityName": "chon-buri"
+  },
+  {
+    "countryCode": "th",
+    "cityName": "amphoe-mueang-chiang-mai"
+  },
+  {
+    "countryCode": "cn",
+    "cityName": "shanghai"
+  },
+  {
+    "countryCode": "cn",
+    "cityName": "guangzhou"
+  },
+  {
+    "countryCode": "cn",
+    "cityName": "shenzhen"
+  },
+  {
+    "countryCode": "cn",
+    "cityName": "hangzhou"
+  },
+  {
+    "countryCode": "cn",
+    "cityName": "beijing"
+  },
+  {
+    "countryCode": "mo",
+    "cityName": "macao"
+  },
+  {
+    "countryCode": "ae",
+    "cityName": "dubai"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "edinburgh"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "nottingham"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bristol"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "southampton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "newcastle"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "leicestershire"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "durham"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "cardiff"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "exeter"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "brighton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "york"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "oxford"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "aberdeen"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "cambridge"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "lancaster"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "loughborough"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "lincoln"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "belfast"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "plymouth"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "portsmouth"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "huddersfield"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "reading"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "sunderland"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "swansea"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "norwich"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bournemouth"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "chester"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "hull"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "dundee"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "derby"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "preston"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "middlesbrough"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "winchester"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "canterbury"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bangor"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bradford"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "wolverhampton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "salford"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "hatfield"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "luton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "stirling"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "egham"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "ipswich"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "st-andrews"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "chichester"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "newcastle-under-lyme"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "stratford-upon-avon"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "cornwall-a"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "stockton-on-tees"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bath"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "northampton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "colchester"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "hertfordshire"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "newport"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "cheltenham"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "wales"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "surrey"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "guildford"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "wrexham"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "aberystwyth"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "high-wycombe"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "lancashire"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "cambria"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bolton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "gloucester"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "wembley"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "hamilton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "southend-on-sea"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "bedford"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "stoke-on-trent"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "knighton"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "royston"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "brighton-and-hove"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "mold"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "irvine"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "keele"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "ware"
+  },
+  {
+    "countryCode": "uk",
+    "cityName": "wiltshire"
+  },
+  {
+    "countryCode": "ie",
+    "cityName": "dublin-city"
+  },
+  {
+    "countryCode": "ie",
+    "cityName": "cork"
+  },
+  {
+    "countryCode": "ie",
+    "cityName": "galway"
+  },
+  {
+    "countryCode": "ie",
+    "cityName": "limerick"
+  },
+  {
+    "countryCode": "ie",
+    "cityName": "kilrush"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "paris"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "lyon"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "lille"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "montpellier"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "toulouse"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "marseille"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "bordeaux"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "nice"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "grenoble"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "strasbourg"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "rennes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "nantes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "rouen"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "angers"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "nancy"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "clermont-ferr-and"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "dijon"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "reims"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "amiens"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "aix-en-provence-a"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "saint-etienne"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "metz"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "la-rochelle"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "tours"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "orleans"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "perpignan"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "le-havre"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "seine-saint-denis"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "troyes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "burgundy"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "venissieux"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "provence"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "villeurbanne"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "antibes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "asnieres-sur-seine"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "courbevoie"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "nord"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "villejuif"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "puteaux"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "rueil-malmaison"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "archamps"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "clichy"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "dunkirk"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "vanves"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "ivry-sur-seine"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "saint-ouen"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "issy-les-moulineaux"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "suresnes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "fontainebleau"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "thionville"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "saint-cloud"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "clamart"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "schiltigheim"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "le-kremlin-bicetre"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "valenciennes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "vitry-sur-seine"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "montreuil"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "meudon"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "massy"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "marnes-la-coquette"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "malakoff"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "maisons-alfort"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "lognes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "fresnes"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "creteil"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "chatillon"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "cergy"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "boulogne-billancourt"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "bezons"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "bagneux"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "antony"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "levallois-perret"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "nanterre"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "besancon"
+  },
+  {
+    "countryCode": "fr",
+    "cityName": "roubaix"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "berlin"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "munchen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "frankfurt-am-main"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "hamburg"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "darmstadt"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "aachen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "hannover"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "bremen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "freiburg-im-breisgau"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "dusseldorf"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "dortmund"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "koln"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "potsdam"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "stuttgart"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "bayreuth"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "offenbach-am-main"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "freiburg"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "magdeburg"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "munster"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "mannheim"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "bonn"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "wuppertal"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "bochum"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "nurnberg"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "leipzig"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "essen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "kreisfreie-stadt-munchen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "tubingen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "vallendar"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "zeuthen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "erkner"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "eisenhuttenstadt"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "glashutten"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "woerth"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "vaterstetten"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "leinfelden-echterdingen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "germering"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "dannenfels"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "gauting"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "ottobrunn"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "groebenzell"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "schoenwalde-glien"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "boeblingen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "schoenefeld"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "garching-bei-munchen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "stade"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "unterhaching"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "planegg"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "dachau"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "cologne"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "herzogenaurach"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "oberreichenbach"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "aschheim"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "friedrichshafen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "ratingen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "bergisch-gladbach"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "reutlingen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "remscheid"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "wolfsburg"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "gottingen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "neuss"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "leverkusen"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "kassel"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "kiel"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "braunschweig"
+  },
+  {
+    "countryCode": "de",
+    "cityName": "augsburg"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "madrid"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "barcelona"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "sevilla"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "granada"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "valencia"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "pamplona"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "malaga"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "catalunya"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "tarragona"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "salamanca"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "almeria"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "cordoba"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "l-hospitalet-de-llobregat"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "zaragoza"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alicante-alacant"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "murcia"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alcantarilla"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "cornella-de-llobregat"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "monteprincipe"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "coslada"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "humera"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "majadahonda"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "grinon"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "chamberi"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "benahavis"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "las-lagunas"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "la-cala-de-mijas"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "sopela"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "rivas-vaciamadrid"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "meliana"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "calahonda"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "sueca"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "galdakao"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "leioa"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "getxo"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "mijas"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "parla"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "oropesa"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alcorcon"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "el-prat-de-llobregat"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "el-puerto-de-santa-maria"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "el-vendrell"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "esplugues-de-llobregat"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "sant-joan-despi"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "mostoles"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "el-perello"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alcobendas"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "sant-boi-de-llobregat"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "arenys-de-mar"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "burjasot"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "miranda-de-ebro"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "fuenlabrada"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "ponferrada"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "mairena-del-aljarafe"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "espinardo"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "san-sebastian-de-los-reyes"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "orpesa"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "las-lagunas-de-mijas"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "catarroja"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "castellon-de-la-plana"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "torrent"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alboraia"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "sant-adria-de-besos"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "boadilla-del-monte"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "dos-hermanas"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "fuengirola"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "badalona"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "torremolinos"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alacant"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "albacete"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "lepe"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "cartagena"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "barcellona"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "elx"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "valladolid"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "jerez-de-la-frontera"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "reus"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "burjassot"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "badajoz"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "marbella"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "pozuelo-de-alarcon"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "urbanizacion-los-vergeles"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "pollenca"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "benalmadena"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "castello-de-la-plana"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "santander"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "oviedo"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "aranjuez"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "lugo"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "logrono"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "leganes"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "bilbao"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "coin"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "carmona"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "las-palmas-de-gran-canaria"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "getafe"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "pineiro"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "burgos"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "bilbo"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alcala-de-henares"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "vizcaya"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "bizkaia"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "toledo"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "alicante"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "illes-balears"
+  },
+  {
+    "countryCode": "es",
+    "cityName": "huelva"
+  },
+  {
+    "countryCode": "pt",
+    "cityName": "lisboa"
+  },
+  {
+    "countryCode": "pt",
+    "cityName": "porto"
+  },
+  {
+    "countryCode": "pt",
+    "cityName": "covilhã"
+  },
+  {
+    "countryCode": "pt",
+    "cityName": "braga"
+  },
+  {
+    "countryCode": "nl",
+    "cityName": "amsterdam"
+  },
+  {
+    "countryCode": "fi",
+    "cityName": "helsinki"
+  },
+  {
+    "countryCode": "pl",
+    "cityName": "krakow"
+  },
+  {
+    "countryCode": "at",
+    "cityName": "vienna"
+  },
+  {
+    "countryCode": "at",
+    "cityName": "graz"
+  },
+  {
+    "countryCode": "cz",
+    "cityName": "prague"
+  },
+  {
+    "countryCode": "dk",
+    "cityName": "copenhagen"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rome"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "milan"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "firenze"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "turin"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "venice"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bologna"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "trento"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "naples"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "arona"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "modica"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "capannori"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "anzio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "luisago"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "paderno-dugnano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bianzano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "la-ciaccia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lierna"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tremezzina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lippo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "dormelletto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "castiglion-fiorentino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ozzano-dell-emilia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "fara-novarese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "villa-guardia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cinquanta"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "niscemi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "altofonte"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "buccinasco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "musso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "malga-alta-di-sotto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pontecorvo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "riva-trigoso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "agrate-brianza"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "iano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "caserta"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "mezzana"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pozzuoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cesenatico"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "trezzano-sul-naviglio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "palu"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "noto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bagni-di-lucca"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "torvaianica"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ferentino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "jesi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "beinasco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "montevarchi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-mauro-torinese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "carpineto-romano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cortina-d-ampezzo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marinella"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "trapani"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "campi-bisenzio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "civita"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "millepini"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "endine-gaiano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "guarcino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "messina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "casei-gerola"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "locate-varesino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "gaiana"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "agazzano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "loreto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "empoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "civita-castellana"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sarre"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "muggia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "camporosso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vigo-peirano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ceriale"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marina-di-andora"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "borghetto-santo-spirito"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "maratea"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "camogli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "corniglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "quartu-sant-elena"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "torre-del-lago-puccini"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bussolengo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "granaglione"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "viareggio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "camaiore"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "santa-maria-rezzonico"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "maslianico"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "seui"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "voghera"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "chiavari"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "setteville"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rosa-marina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "piloni"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "colico-piano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "trecate"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "salve"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-damiano-d-asti"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pianoro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pinzolo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "calci"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "centro-tre-denari"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cavaion-veronese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vado-ligure"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "albareto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "villastellone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "alessandria"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vicopisano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "montecalvo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ostuni"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "la-spezia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "grugliasco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cassino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "flory"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lavagna"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "castellazzo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "stresa"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "laveno-mombello"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sasso-marconi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tortoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "salerno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cormano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pino-torinese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marina-di-ravenna"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marliana"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marina-di-pisa-tirrenia-calambr"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "casalzuigno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marina-di-ardea"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "reggio-calabria"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "selcetta"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "calambrone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cavallasca"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "fregene"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "nova-milanese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "castelfranco-di-sotto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "laigueglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "savigliano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "borgomanero"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pero"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lazise"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "conegliano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pratole"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "dagnente"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "seriate"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tricase"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "azzano-san-paolo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "campobasso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "isernia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sant-agnello"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "portovenere"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cerveteri"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "santa-marinella"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "moncalieri"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "narni-scalo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vedano-al-lambro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "torno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "olbia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "borgio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "magliolo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "gallarate"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tovena"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "quarto-d-altino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "latina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cernusco-sul-naviglio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "binasco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pontecurone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cassina-de-pecchi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "povo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-donato-milanese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ladispoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tivoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "aranova"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lido-di-classe"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cesena"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "premilcuore"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "punta-marina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "casemurate"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ravenna"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "forlimpopoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bertinoro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "varese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "battipaglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "avola"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "zanica"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "chianciano-terme"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sant-antimo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-benedetto-del-tronto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "nicolosi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "quarto-inferiore"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "calderara-di-reno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "frosinone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tremezzo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "alba"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "fiuggi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "alta-valle-intelvi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "turrati-forche"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lido-di-ostia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bolzano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "chiomonte"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ovindoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "laglio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "gallipoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sassari"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lecce"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "scopello"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "casamicciola-terme"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "riccio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lanciano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ortona"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rocca-san-giovanni"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cattolica"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lenno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-bartolomeo-al-mare"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "alassio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "torino-di-sangro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cervo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "alcamo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "santa-lucia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "imperia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-cataldo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "coverciano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lesmo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "nesso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "tricesimo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sant-antonio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "seveso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "naresso-inferiore"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vello"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bollate"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "turri-piano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-fermo-della-battaglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vallevo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-fedele-intelvi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "milano-san-felice"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "udine"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ciuk"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "valdidentro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "castel-di-decima"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "premadio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "fauglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bormio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ceglie-messapica"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "litorale-nord"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-pietro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "molina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "termoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "valdisotto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "civitavecchia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "arese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ceccano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "anzola-dell-emilia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pesaro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "desenzano-del-garda"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bari"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cesano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pordenone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "albano-laziale"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "l-aquila"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rozzano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pisa"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bordighera"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "piacenza"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "brescia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cologno-monzese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cagliari"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "oristano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "segrate"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rimini"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "riccione"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "novate-milanese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "chiaravalle"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vimodrone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "santa-caterina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "monopoli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "faggeto-lario"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lomazzo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "blevio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "argegno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pescara"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "alghero"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "centoia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "villasanta"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sanremo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "gorgonzola"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "trieste"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bagheria"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "saronno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "moltrasio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "la-massimina-casal-lumbroso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pavia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "legnaro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "novegro-tregarezzo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "pompei"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "zola-predosa"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "riale"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "monza"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cinisello-balsamo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-massimo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lissone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "fonte-laurentina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "scandicci"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "casoria"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "settimo-milanese"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "badile"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "poasco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cesano-boscone"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "porto-valtravaglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "castellanza"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "novara"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "treviso"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cortona"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "santa-margherita-ligure"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "mazara-del-vallo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cernobbio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "trabia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "moneglia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rapallo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "siracusa"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cassano-d-adda"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ciampino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "malo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ferrara"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "verona"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "corsico"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "siena"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "perugia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bergamo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "ancona"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "diano-marina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "gagliano-del-capo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lido-di-savio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "mercatello-sul-metauro"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "calderino"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "legnano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "genoa"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "lucca"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "casalecchio-di-reno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "gatteo-a-mare"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "settimo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "teramo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "vico-equense"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "padua"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "viterbo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sestri-levante"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "busto-arsizio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "silea"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "acireale"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rho"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "san-lazzaro-di-savena"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "livorno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "rovereto"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "terracina"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "venaria-reale"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "palermo"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "parma"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "marigliano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cosenza"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "capalbio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "brindisi"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "modena"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "montesilvano"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "budrio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "recco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "sesto-san-giovanni"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "torre-del-greco"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "reggio-emilia"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "potenza"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "forli"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "cesano-maderno"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "como"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "bagnoregio"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "baricella"
+  },
+  {
+    "countryCode": "it",
+    "cityName": "catania"
+  },
+  {
+    "countryCode": "se",
+    "cityName": "gothenburg"
+  },
+  {
+    "countryCode": "se",
+    "cityName": "stockholm"
+  },
+  {
+    "countryCode": "ch",
+    "cityName": "zurich"
+  },
+  {
+    "countryCode": "al",
+    "cityName": "tirana"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "chicago"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "urbana-champaign"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "berkeley"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "seattle"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "washington-d-c"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "jersey-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "atlanta"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "irvine"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "ann-arbor"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pittsburgh"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "davis"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "miami"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-diego"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "minneapolis"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "columbus"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "saint-louis"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "dallas"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "baltimore"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "syracuse"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "madison"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "austin"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tempe"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "huston"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-jose"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "state-college"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "rochester"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-brunswick"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "gainesville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "orlando"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "athens"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "ithaca"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "east-lansing"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-monica"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-barbara"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "buffalo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "denver"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tampa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "arlington2"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "worcester"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cincinnati"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "nashville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "evanston"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "raleigh"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "savannah"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tucson"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "west-lafayette"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sacramento"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-haven"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "riverside"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cleveland"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "providence"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pasadena"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "charlottesville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-antonio"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "baton-rouge"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "college-station"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "raleigh-durham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bloomington"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "salt-lake-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "detroit"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "college-park"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hoboken"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "auburn"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "blacksburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "columbia-sc"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cambridge"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boulder"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "columbia"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tallahassee"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "charlotte"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "eugene"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "newark_1"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "chapel-hill"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "city-of-binghamton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "storrs"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "indianapolis"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tuscaloosa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-marcos"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "corvallis"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "durham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "birmingham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "clemson"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fort-collins-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "reno"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "normal"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "waco"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "west-hollywood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "albany"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "longbeach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "flagstaff"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oxford2"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "newport-beach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-cruz"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fayetteville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "richmond"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "greenville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lawrence"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "memphis"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pullman"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "iowa-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "malibu"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "arlington"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "morgantown"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bethlehem"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "charleston"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "springfield-mo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lubbock"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "belmont"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lincoln"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "radford"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "north-hollywood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "winston-salem-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "colorado-springs"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "stamford"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "woodland-hills"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fort-wayne"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wilmington-nc"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "south-bend"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fort-myers"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "woodbridge"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "norman"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "milford"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "kalamazoo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-luis-obispo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boca-raton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "spokane"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "kent-oh"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "kennesaw"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wichita"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lynn"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "jonesboro"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "scottsdale"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "richardson"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "harrisonburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "starkville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pomona"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "ventura"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "thousand-oaks"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "conway"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "huntsville-tx"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bayonne"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "statesboro"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "clarksville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boone"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "weehawken"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "athens-oh"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "murfreesboro"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bowling-green-oh"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "west-hampstead"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "herndon"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "chico"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lorton-va"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "central"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "youngstown"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "knightdale"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "seneca"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "vestal"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oxford_1"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "marietta"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "orange"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "jacksonville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "waltham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "burbank"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "knoxville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-orleans"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bellevue"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "medford"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "anaheim"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "johnson-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-clara"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fairfax"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "milwaukee"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "phoenix"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-francisco"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oakland"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-mateo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "toledo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "emeryville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-clarita"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "las-vegas"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "schaumburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "revere"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "malden"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "newark"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "glendale-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "walnut-creek"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "abington-pa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "ames"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oklahoma-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "mountain-view"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-britain"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "stillwater"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "decatur-ga"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "honolulu"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "brookline"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "chelsea"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "towson"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "jacksonville-al"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "savoy"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "evans"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "union-city-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "monrovia"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bozeman"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "logan"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "marinadelrey"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "burlington"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sangabriel"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "calabasas"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "piscataway"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "york-pa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "middletown-pa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "daytona-beach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "columbia-md"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "franklin"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "newton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "beverly"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "venice"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "simi-valley"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-bruno"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "redwood-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pacifica"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fremont"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "costa-mesa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "edgewater"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "camarillo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "falls-church"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "alexandria"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "aurora-co"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fullerton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "aurora"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "orem"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "concord"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lansing"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "rockville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "gaithersburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "louisville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fort-lauderdale"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wilmington-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "dayton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "la-mirada"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "kansas-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lafayette"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "amherst-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "golden"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "provo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "williamsburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "troy-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "portland"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "princeton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "greensboro"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "denton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bryan"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "champaign-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lexington"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "goleta"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "orangeburg-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "arlington-tx"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "franklin-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "urbana"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "essex-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hudson-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "secaucus"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "paterson"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "culver-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "arapahoe-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "inglewood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "montgomery-county-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "orange-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "winooski"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boise"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "monroe-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "harris-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "st-paul"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "downey"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tacoma"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "milledgeville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cuyahoga-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "somerville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fairfax-county-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "los-angeles-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wyomissing"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "reading"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "newport-ky"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "mckinney"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fort-lee"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "edmond"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "union-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "redmond"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cook-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bellevue-ne"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "douglas-county-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "somerville-ma"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "round-rock"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-barbara-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "ypsilanti"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "marion-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "laguna-beach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "ramsey-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "st--joseph-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "escambia-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "farmington"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "spartanburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lancaster-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "dauphin-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tustin"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oviedo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lee-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "perris"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "duarte"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "edinburg"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "vacaville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "obetz"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "plain-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bowling-green"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "melbourne"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cocoa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "n"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "middletown-oh"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "cary"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lincolnton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "carlsbad"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "shoreline"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hammond"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "gilbert"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "inkster"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "silver-spring"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "north-bethesda"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "linthicum-heights"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "laurel"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "west-palm-beach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "miramar"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "margate"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hialeah"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "doral"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "littleton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "castle-rock"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "woburn"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sudbury"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "saugus"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "plymouth"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "peabody"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "norwood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "northborough"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "natick"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "addison"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "flower-mound"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "marlborough"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wood-ridge"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hingham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "framingham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "easton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wharton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "vista"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "west-windsor-township"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "teaneck"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bedford"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "acton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "seal-beach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-dimas"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "rancho-santa-margarita"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "old-bridge"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "mission-viejo"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "la-mesa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lake-forest"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wilton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-canaan"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "huntington-beach"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "glendora"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "montville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "chino-hills"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "maplewood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hackensack"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "brea"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "artesia"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "agoura-hills"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boonton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bloomingdale"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sunnyvale"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bloomfield"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pleasanton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bothell"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "foster-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "dublin"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "campbell"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "gray"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sherman"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "pearland"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bay-point"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "antioch"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "davie"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "batavia"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bethel"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lynnwood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "westmont"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "stockton"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "kane-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "highland-park"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hennepin-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "willington"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oak-creek"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "waterford-township"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "southgate"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "oshawa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "malvern"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "south-lake-tahoe"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "salinas"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "frisco"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "studio-city"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "placentia"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "highland-park-a"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "arleta"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "reseda"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "valley-village"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sherman-oaks"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "tarzana"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "brentwood"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hendersonvlle"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "beverly-hills"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "clute"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "el-monte"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "van-nuys"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sterling-heights"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "northridge"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "canoga-park"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "sylmar"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "lake-balboa"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "new-bedford"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "casa-grande"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "hyattsville"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "mason"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "west-chester-township"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "addyston"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "davidson"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "westminster"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "warren-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "rock-hill"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "north-bergen"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "butler-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "broward-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "washington-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "boone-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "contra-costa-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "santa-clara-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "king-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bergen-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "alameda-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-bernardino-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "middlesex-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "riverside-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "morris-county"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "wichita-falls"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "rancho-palos-verdes"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "bellingham"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "fort-worth"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "san-bernardino"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "winter-park"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "glendale"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "franklin-tn"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "corpus-christi"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "albuquerque"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "dearborn"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "darien"
+  },
+  {
+    "countryCode": "us",
+    "cityName": "north-andover"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "ottawa"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "montreal"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "vancouver"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "edmonton"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "hamilton"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "London"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "waterloo"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "kingston"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "halifax"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "st-catharines"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "burnaby"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "victoria"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "north-york"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "surrey"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "oshawa"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "kitchener"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "guelph"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "richmond"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "brantford"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "gatineau"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "burlington"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "richmond-hill"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "laval"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "trenton"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "peterborough"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "north-bay"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "regina"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "new-westminster"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "north-vancouver"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "winnipeg"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "windsor"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "calgary"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "oakville"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "sudbury"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "fort-saskatchewa"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "thorold"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "ajax"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "stratford"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "dartmouth"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "prince-george"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "coquitlam"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "barrie"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "abbotsford"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "brampton"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "west-vancouver"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "mississauga"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "greater-sudbury"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "scarborough"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "markham"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "vaughan"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "metro-vancouver"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "sherwood-park"
+  },
+  {
+    "countryCode": "ca",
+    "cityName": "vernon"
+  },
+  {
+    "countryCode": "za",
+    "cityName": "capetown"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "perth"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "canberra"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "newcastle"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "gold-coast"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "darwin"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "lismore"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "bendigo"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "coffs-harbour"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "albury-wodonga"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "cairns"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "wollongong"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "sunshine-coast"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "townsville"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "hobart"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "douglas"
+  },
+  {
+    "countryCode": "au",
+    "cityName": "rockhampton"
+  },
+  {
+    "countryCode": "nz",
+    "cityName": "auckland"
+  },
+  {
+    "countryCode": "nz",
+    "cityName": "wellington"
+  },
+  {
+    "countryCode": "nz",
+    "cityName": "hamilton"
+  },
+  {
+    "countryCode": "nz",
+    "cityName": "christchurch-city"
+  },
+  {
+    "countryCode": "nz",
+    "cityName": "dunedin-city"
+  },
+  {
+    "countryCode": "nz",
+    "cityName": "tauranga"
+  },
+  {
+    "countryCode": "hu",
+    "cityName": "budapest"
+  }
+]
